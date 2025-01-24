@@ -1,7 +1,6 @@
-#ifndef INSTRUMENT_H
-#define INSTRUMENT_H
+#ifndef INSTRUMENT_HPP
+#define INSTRUMENT_HPP
 
-#include <string>
 
 class Instrument {
 protected:

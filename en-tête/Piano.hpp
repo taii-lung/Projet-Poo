@@ -1,7 +1,7 @@
-#ifndef PIANO_H
-#define PIANO_H
+#ifndef PIANO_HPP
+#define PIANO_HPP
 
-#include "Instrument.h"
+#include "Instrument.hpp"
 
 class Piano : public Instrument {
 public:
